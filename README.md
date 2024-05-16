@@ -26,8 +26,8 @@ The dataset used in this project contains information about bank customers, incl
 
 ## Usage
 
-1. Clone the repository:git clone https://github.com/mokshadashedbale/bank_customer_prediction.git
-2. Install the required dependencies:pip install -r requirements.txt 
+1. Clone the repository: git clone https://github.com/mokshadashedbale/bank_customer_prediction.git
+2. Install the required dependencies: pip install -r requirements.txt 
 3. Open and run the Jupyter Notebook `bank_customer_churn_modelling.ipynb` to see the implementation and results.
 
 
